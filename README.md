@@ -8,7 +8,8 @@ I offer small paid Agent Ops mini-sprints for teams using AI coding agents in re
 - Choose a paid sprint: https://mysubb01.github.io/agent-ops-command-pack-teaser/SERVICE_MENU.md
 - Service page: https://mysubb01.github.io/agent-ops-command-pack-teaser/service.html
 - Open paid request issue: https://github.com/mysubb01/agent-ops-command-pack-teaser/issues/2
-- Latest service release: https://github.com/mysubb01/agent-ops-command-pack-teaser/releases/tag/v0.2.5
+- Copilot plugin preview: https://github.com/mysubb01/agent-ops-command-pack-teaser/releases/tag/v0.3.0
+- Latest service release: https://github.com/mysubb01/agent-ops-command-pack-teaser/releases/tag/v0.3.0
 
 ## Paid Starter Requests
 
