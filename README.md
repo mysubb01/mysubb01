@@ -2,16 +2,22 @@
 
 I offer small paid Agent Ops mini-sprints for teams using AI coding agents in real operations work.
 
+## Start Here
+
+- Choose a paid sprint: https://mysubb01.github.io/agent-ops-command-pack-teaser/SERVICE_MENU.md
+- Service page: https://mysubb01.github.io/agent-ops-command-pack-teaser/service.html
+- Open paid request issue: https://github.com/mysubb01/agent-ops-command-pack-teaser/issues/2
+- Latest service release: https://github.com/mysubb01/agent-ops-command-pack-teaser/releases/tag/v0.2.4
+
 ## Paid Starter Requests
 
 - Bug triage note: https://github.com/mysubb01/agent-ops-command-pack-teaser/issues/new?template=starter-bug-triage.yml
 - PR risk review: https://github.com/mysubb01/agent-ops-command-pack-teaser/issues/new?template=starter-pr-risk-review.yml
 - Deploy smoke pack: https://github.com/mysubb01/agent-ops-command-pack-teaser/issues/new?template=starter-deploy-smoke.yml
 
-## Service
+## Free Preview
 
-- Service page: https://mysubb01.github.io/agent-ops-command-pack-teaser/service.html
-- Starter menu issue: https://github.com/mysubb01/agent-ops-command-pack-teaser/issues/2
+- Prompt generator: https://mysubb01.github.io/agent-ops-prompt-generator/
 - Shareable Gist: https://gist.github.com/mysubb01/abfd2f8da7505a24f5cefe377563fb5f
 
 ## Best Fit
